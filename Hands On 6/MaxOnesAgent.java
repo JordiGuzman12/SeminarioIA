@@ -1,5 +1,4 @@
 package handsOn6;
-import com.sun.prism.impl.PrismSettings;
 import jade.core.Agent;
 import jade.core.behaviours.*;
 /**
